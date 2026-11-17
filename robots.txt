@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bracketology.rackdisciplineusa.com/sitemap.xml
